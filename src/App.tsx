@@ -75,7 +75,10 @@ function App() {
         )}
       </div>
       <div className='App flex-2'>
-        <img src={`${process.env.PUBLIC_URL}/card.png`} />
+        <img
+          className='card-image'
+          src={`${process.env.PUBLIC_URL}/card.png`}
+        />
         <button onClick={() => generateAmulet()}>Hand in</button>
       </div>
     </div>

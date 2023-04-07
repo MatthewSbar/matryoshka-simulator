@@ -192,3 +192,17 @@ body {
 button {
   margin-top: 1rem;
 }
+
+@media (max-width: 960px) {
+  .flex {
+    flex-direction: column;
+  }
+
+  .card-image {
+    display: none;
+  }
+
+  .App {
+    margin-left: 0;
+  }
+}
