@@ -70,12 +70,12 @@ function App() {
               <div className='sep' />
               <div className='enchant'>Incubating Talisman Item</div>
             </div>
-            <img src='2d.png' />
+            <img src={`${process.env.PUBLIC_URL}/2d.png`} />
           </>
         )}
       </div>
       <div className='App flex-2'>
-        <img src='card.png' />
+        <img src={`${process.env.PUBLIC_URL}/card.png`} />
         <button onClick={() => generateAmulet()}>Hand in</button>
       </div>
     </div>
