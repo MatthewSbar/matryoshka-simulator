@@ -992,9 +992,8 @@ Remove Elemental Ailments when you Cast a Curse Spell`,
 30% increased Effect of Non-Damaging Ailments`,
   },
   {
-    name: "",
-    description: `Mental Rapidity
-10% increased Cast Speed
+    name: "Mental Rapidity",
+    description: `10% increased Cast Speed
 30% increased Mana Regeneration Rate`,
   },
   {
