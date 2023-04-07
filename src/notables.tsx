@@ -13,12 +13,6 @@ export const notables: Anointment[] = [
 +6% Chance to Block Attack Damage while wielding a Staff`,
   },
   {
-    name: "Sanctuary",
-    description: `+4% Chance to Block Attack Damage while holding a Shield
-+4% Chance to Block Spell Damage while holding a Shield
-+12% Elemental Resistances while holding a Shield`,
-  },
-  {
     name: "Smashing Strikes",
     description: `Staff Attacks deal 30% increased Damage with Hits and Ailments
 30% increased Critical Strike Chance with Staves
@@ -1288,8 +1282,9 @@ Enemies Ignited or Chilled by you have -5% to Elemental Resistances`,
   },
   {
     name: "Sanctuary",
-    description: `Consecrated Ground you create applies 15% increased Damage taken to Enemies
-You have Consecrated Ground around you while stationary`,
+    description: `+4% Chance to Block Attack Damage while holding a Shield
+    +4% Chance to Block Spell Damage while holding a Shield
+    +12% Elemental Resistances while holding a Shield`,
   },
   {
     name: "Will of Blades",
