@@ -309,8 +309,7 @@ Remove Elemental Ailments when you Cast a Curse Spell`},{name:"Practical Applica
 6% increased Movement Speed
 30% increased Damage Over Time with Bow Skills`},{name:"Ash, Frost and Storm",description:`30% increased Elemental Damage
 10% chance to Freeze, Shock and Ignite
-30% increased Effect of Non-Damaging Ailments`},{name:"",description:`Mental Rapidity
-10% increased Cast Speed
+30% increased Effect of Non-Damaging Ailments`},{name:"Mental Rapidity",description:`10% increased Cast Speed
 30% increased Mana Regeneration Rate`},{name:"Quick Recovery",description:`7% increased maximum Life
 20% increased Mana Regeneration Rate
 Regenerate 0.8% of Life per second`},{name:"Combat Stamina",description:`20% increased Armour
