@@ -38,9 +38,6 @@ function App() {
                 <div className='property'>
                   Item level: <span className='value'>85</span>
                 </div>
-                <div className='property'>
-                  Requires level: <span className='value'>25</span>
-                </div>
               </div>
               <div className='sep' />
               {amulet?.anoints.map((a) => (
@@ -73,12 +70,12 @@ function App() {
               <div className='sep' />
               <div className='enchant'>Incubating Talisman Item</div>
             </div>
-            <img src='/2d.png' />
+            <img src='2d.png' />
           </>
         )}
       </div>
       <div className='App flex-2'>
-        <img src='/card.png' />
+        <img src='card.png' />
         <button onClick={() => generateAmulet()}>Hand in</button>
       </div>
     </div>
